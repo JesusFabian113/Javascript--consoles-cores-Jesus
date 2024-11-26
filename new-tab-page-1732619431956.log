@@ -1,0 +1,22 @@
+Chrome is moving towards a new experience that allows users to choose to browse without third-party cookies.
+Chrome is moving towards a new experience that allows users to choose to browse without third-party cookies.
+Chrome is moving towards a new experience that allows users to choose to browse without third-party cookies.
+Chrome is moving towards a new experience that allows users to choose to browse without third-party cookies.
+Chrome is moving towards a new experience that allows users to choose to browse without third-party cookies.
+Chrome is moving towards a new experience that allows users to choose to browse without third-party cookies.
+Chrome is moving towards a new experience that allows users to choose to browse without third-party cookies.
+Chrome is moving towards a new experience that allows users to choose to browse without third-party cookies.
+Chrome is moving towards a new experience that allows users to choose to browse without third-party cookies.
+Chrome is moving towards a new experience that allows users to choose to browse without third-party cookies.
+Chrome is moving towards a new experience that allows users to choose to browse without third-party cookies.
+Chrome is moving towards a new experience that allows users to choose to browse without third-party cookies.
+Function Seleccioneostiposdecores (){
+VM158:1 Uncaught SyntaxError: Unexpected identifier 'Seleccioneostiposdecores'
+Function Seleccionarcoresrandoms (){                                        let coresrandoms = [1;10];                                                   for (let index = 0; index < 10; i++) {                                     let indicerandom = Math.floor(Math.random () cores.legth);                   coresRandoms.push(cores [indiceRandom]);                                    }                                                                           return coresRandoms;
+    
+}
+VM888:1 Uncaught SyntaxError: Unexpected identifier 'Seleccionarcoresrandoms'
+let cores= ["Black","Cyan","Bsique","Beige","Azure","Aquamarine","Blueviolet","Coral","Crimson","Cadeblue","Chocolate","Blue","BurlyWood","Darkblue"];            Fuction Selectioncoresrandoms () {                                           let coresrandoms = [1;10];                                                  for (let index = 0; index < 10; index++) {
+let indicerandom = Math.floor(Math.random () cores.legth);                   coresRandoms.push (cores [indicerandom]);                                    }                                                                            return coresRandoms;
+} 
+VM2039:1 Uncaught SyntaxError: Unexpected identifier 'Selectioncoresrandoms'
