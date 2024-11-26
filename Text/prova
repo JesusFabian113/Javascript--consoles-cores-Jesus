@@ -1,0 +1,3 @@
+let cores= ["Black","Cyan","Bsique","Beige","Azure","Aquamarine","Blueviolet","Coral","Crimson","Cadeblue","Chocolate","Blue","BurlyWood","Darkblue"];            Fuction Selectioncoresrandoms () {                                           let coresrandoms = [1;10];                                                  for (let index = 0; index < 10; index++) {
+let indicerandom = Math.floor(Math.random () cores.legth);                   coresRandoms.push (cores [indicerandom]);                                    }                                                                            return coresRandoms;
+} 
